@@ -5,11 +5,11 @@ body {
 }
 
 h2 {
-    color: #333;
+    color: rgb(141, 105, 28);
 }
 
 h2 {
-    color: #333;
+    color: #50c932;
 }
 
 h3 {
@@ -18,7 +18,7 @@ h3 {
 
 
 button {
-    padding: 10px 20px;
+    padding: 10px 16px;
     font-size: 16px;
     cursor: pointer;
 }
@@ -55,5 +55,5 @@ input[type="submit"] {
 #formOutput {
     margin-top: 20px;
     font-size: 18px;
-    color: #555;
+    color: #1709df;
 }
